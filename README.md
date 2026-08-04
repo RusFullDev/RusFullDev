@@ -15,12 +15,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  align="left">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px"> <br>
-<img src="https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg" min-width="380px" max-width="400px" width="1000px"> <br>
 <!-- ###### END OF HEAD ##### -->
 
 <!-- ###### Languages | Tools ##### -->
 <div align="center">
-<a href="https://github.com/RusFullDev"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=RusFullDev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="Nurbek2107's GitHub stats" /></a>
+<a href="https://github.com/RusFullDev"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=RusFullDev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="Rustam's GitHub stats" /></a>
 <a href="http://www.github.com/RusFullDev"><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RusFullDev&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "60%"/></a>
 <div align="center">
 <a href="http://www.github.com/RusFullDev"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RusFullDev&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
