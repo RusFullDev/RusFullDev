@@ -1,15 +1,15 @@
 <!-- ###### HEAD ##### -->
 
 
-<img width=100% title="" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack-💻-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fullstack%20%7C%20Python%20%26%20AI%20Developer&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
- ✦　　　　　　　　　　　　　.　　　ﾟ　  　　　 ✦　　　　　　　　　　　　　.                                    .               ✦  
+ ✦　　　　　　　　　　　　　.　　　ﾟ　  　　　 ✦　　　　　　　　　　　　　.                                    .               ✦  
 
-　　　　　　 ✦　　　　　　　.　　　　　　    　　　　 　　　　　　　　　　　　　　　　　　 ☀️ 　　　　　　.     "                     *　　　　　　　　　　　　    　      　　　　　        　　　　　　　　　　　　　✦　　　　　　　　　　<p align="center">
-  <a href="https://github.com/RusFullDev"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Rustam%20Urinov%20;🔗%20Software%20Engineer;👨‍💻%20Front-end%20Web%20Developer;💻%20Backend%20Developer;👨‍💻%20AI%20%20Developer;🤝%201%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6f5&vCenter=true&size=45%22"></a>
+　　　　　　 ✦　　　　　　　.　　　　　　    　　　　 　　　　　　　　　　　　　　　　　　 ☀️ 　　　　　　.     "                     *　　　　　　　　　　　　    　      　　　　　        　　　　　　　　　　　　　✦　　　　　　　　　　<p align="center">
+  <a href="https://github.com/RusFullDev"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Rustam%20Urinov;🔗%20Fullstack%20%7C%20Python%20%26%20AI%20Developer;🤖%20Telegram%20Bot%20Developer%20(aiogram);🎥%20AI%20%26%20Face%20Recognition%20Systems;⚙️%20FastAPI%20%2B%20PostgreSQL;🏢%2025%2B%20Shops%20Automated%20Solutions;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6f5&vCenter=true&size=40"></a>
 </p>
 
-　˚　　　　　　　　　　　　　　　　　　　　　ﾟ　　　　　✦　　　　　　　　　　　　　　. 　　 　 🌎 ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ,　 　　　　　　　　　　　　　　        ✦　　　　　 　　　　　　　　　　　　　　.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　✦　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　✦
+　˚　　　　　　　　　　　　　　　　　　　　　ﾟ　　　　　✦　　　　　　　　　　　　　　. 　　 　 🌎 ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ,　 　　　　　　　　　　　　　　        ✦　　　　　 　　　　　　　　　　　　　　.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　✦　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　✦
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
@@ -46,12 +46,8 @@
 <h4 align="center"> <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"> Rustam Urinov
  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="30px" height="30px" align="center"></h4>
 
-<img width=100% title="RusFullDev" alt="RusFullDev"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<img width=100% title="RusFullDev" alt="RusFullDev"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=38&fontColor=fff&animation=twinkling"/>
 
 
 
 <!-- ###### END OF FOOTER ##### -->
-
-
-
-
