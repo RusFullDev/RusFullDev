@@ -1,6 +1,6 @@
 <!-- ################ HEADER ################ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Rustam%20Urinov&amp;fontSize=55&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Fullstack%20%7C%20Python%20%26%20AI%20Developer&amp;descAlignY=58&amp;descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Rustam%20Urinov&amp;fontSize=55&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Fullstack%20%7C%20Python%20va%20AI%20Developer&amp;descAlignY=58&amp;descSize=20"/>
 
 <p align="center">
   <a href="https://github.com/RusFullDev"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=58A6F5&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=%F0%9F%90%8D+Python+%26+Backend+Developer;%F0%9F%A4%96+Telegram+Bot+Developer+(aiogram);%F0%9F%8E%A5+AI+%26+Face+Recognition+Systems;%E2%9A%99%EF%B8%8F+FastAPI+%2B+PostgreSQL+%2B+Docker;%F0%9F%8F%A2+25%2B+Do'kon+Avtomatlashtirish+Tizimlari;%F0%9F%94%B0+Doimiy+o'rganish+va+rivojlanish" alt="Typing SVG" /></a>
